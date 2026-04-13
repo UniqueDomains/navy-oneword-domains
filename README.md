@@ -64,7 +64,7 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------- |
-| free.navy       | available | $42.99    | $52.99        | 88             | 59     | 4      | name.com                                 |
+| free.navy       | available | $42.99    | $52.99        | 88             | 57     | 4      | name.com                                 |
 | http.navy       | resell    | —         | —             | 80             | 72     | 4      | Hosting Concepts B.V. d/b/a Registrar.eu |
 | one.navy        | premium   | $1,000    | $1,000        | 132            | 50     | 3      | name.com                                 |
 | live.navy       | available | $42.99    | $52.99        | 108            | 56     | 4      | name.com                                 |
@@ -79,9 +79,9 @@ print(df.head())
 | business.navy   | available | $45.98    | —             | 100            | 53     | 8      | namecheap                                |
 | super.navy      | resell    | —         | —             | 58             | 45     | 5      | Spaceship, Inc.                          |
 | realestate.navy | premium   | $260      | $260          | —              | 40     | 11     | namecheap                                |
-| fast.navy       | available | $42.99    | $52.99        | 82             | 53     | 4      | name.com                                 |
-| research.navy   | premium   | $78       | $78           | 92             | 39     | 8      | namecheap                                |
 | art.navy        | available | $45.98    | —             | 90             | 52     | 3      | namecheap                                |
+| research.navy   | premium   | $78       | $78           | 92             | 39     | 8      | namecheap                                |
+| fast.navy       | available | $42.99    | $52.99        | 82             | 52     | 4      | name.com                                 |
 | about.navy      | premium   | $1,000    | $1,000        | 94             | 37     | 5      | name.com                                 |
 | game.navy       | available | $42.99    | $52.99        | 120            | 50     | 4      | name.com                                 |
 
