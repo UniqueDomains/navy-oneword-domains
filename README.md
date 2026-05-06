@@ -1,10 +1,10 @@
-# Available .NAVY One-Word Domains (12,772)
+# Available .NAVY One-Word Domains (12,773)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C772%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C773%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .navy one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,772 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,773 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,772 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,773 domains · **Median ask:** $45.83 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/navy`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,13 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Acup.navy          | available | $45.98    | —             | 80             | 5      | 5      | namecheap |
+| finals.navy        | available | $41.99    | $41.99        | 80             | 7      | 6      | namesilo  |
+| jewels.navy        | available | $42.99    | —             | 80             | 15     | 6      | name.com  |
+| getup.navy         | available | $42.99    | —             | 82             | 14     | 6      | name.com  |
+| Apples.navy        | available | $45.98    | —             | 90             | 16     | 6      | namecheap |
+| playon.navy        | available | $42.99    | —             | 80             | 14     | 7      | name.com  |
+| pierogi.navy       | available | $42.99    | —             | 82             | 7      | 7      | name.com  |
 | agents.navy        | available | $42.99    | —             | 56             | 50     | 6      | name.com  |
 | VirginiaBeach.navy | premium   | $138.60   | $138.60       | 58             | 9      | 14     | namecheap |
 | cars.navy          | available | $42.99    | —             | 66             | 47     | 4      | name.com  |
@@ -77,13 +84,6 @@ print(df.head())
 | inspiration.navy   | available | $42.99    | —             | 88             | 30     | 11     | name.com  |
 | videos.navy        | available | $42.99    | —             | 52             | 30     | 6      | name.com  |
 | heroes.navy        | available | $42.99    | —             | 68             | 29     | 6      | name.com  |
-| dogs.navy          | available | $42.99    | —             | 76             | 28     | 4      | name.com  |
-| gems.navy          | available | $41.99    | $41.99        | 70             | 28     | 4      | namesilo  |
-| KFC.navy           | available | $45.98    | —             | 74             | 27     | 3      | namecheap |
-| bees.navy          | available | $42.99    | —             | 54             | 27     | 4      | name.com  |
-| has.navy           | available | $42.99    | —             | 60             | 26     | 3      | name.com  |
-| doctors.navy       | available | $42.99    | —             | 56             | 26     | 7      | name.com  |
-| sites.navy         | available | $42.99    | —             | 53             | 26     | 5      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,772 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,773 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of .navy domain names. The set includes short, dictionary-style and brandable terms such as tips.navy, WiFi.navy, homes.navy, finals.navy, and forces.navy. For founders, the key question is whether a .navy ending strengthens the name enough to make it memorable and ownable now. For investors, the main test is whether the keyword and extension fit tightly enough to support resale interest at the current ask. With a median ask of 45.83, price discipline matters less than relevance, clarity, and the likelihood that the term feels natural on a .navy extension.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Check whether the word reads naturally with .navy
+- Prefer clear, memorable terms over forced combinations
+- Use the 45.83 median ask as a pricing reference point
+- Watch for trademark risk in branded or loaded terms
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NAVY One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NAVY One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
