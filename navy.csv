@@ -911,6 +911,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4ec86de0-a312-494d-8437-67044a58dcda,startover.navy,available,42.99,,78,6,10,name.com,,
 4eef8d21-54cc-4293-b882-793c2a09eef8,Ilostmywallet.navy,available,45.98,,50,1,16,namecheap,,
 4f0ac3c4-ac33-408d-bfd8-893e1fe5b59f,getthrough.navy,available,42.99,,79,2,11,name.com,,
+4f119eff-84fc-48e7-8cc7-75b29d8a8857,divers.navy,premium,,,69,11,6,,,
 4f2034f0-6ae6-4061-9895-843d87c2315b,rollercoaster.navy,available,42.99,,69,8,14,name.com,,
 4f2f1818-ffcd-4844-9423-224216970b4e,surfers.navy,available,41.99,41.99,57,10,7,namesilo,,
 4f46dc90-8a14-407c-8336-ad2d5826cdc1,OttomanEmpire.navy,available,45.98,,64,2,14,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5516b449-8f97-4158-9005-e9eef2341170,maketheheadlines.navy,available,42.99,,72,0,18,name.com,,
 551cd2d7-70ff-4980-8d94-f8b44eb51988,GodtheHolyGhost.navy,available,45.98,,58,1,18,namecheap,,
 55331035-fd4e-4821-8026-37a8957512bf,umbrellas.navy,available,41.99,41.99,59,9,9,namesilo,,
-553707a4-4ff1-4647-9fde-be917aac3d9e,manyeyed.navy,available,42.99,,68,1,9,name.com,,
