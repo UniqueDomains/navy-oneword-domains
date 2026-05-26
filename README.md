@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .navy one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,773 domains · **Median ask:** $45.83 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/navy`  
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | Acup.navy          | available | $45.98    | —             | 80             | 5      | 5      | namecheap |
 | finals.navy        | available | $41.99    | $41.99        | 80             | 7      | 6      | namesilo  |
 | jewels.navy        | available | $42.99    | —             | 80             | 15     | 6      | name.com  |
-| getup.navy         | available | $42.99    | —             | 82             | 14     | 6      | name.com  |
+| getup.navy         | available | $42.99    | —             | 82             | 15     | 6      | name.com  |
 | Apples.navy        | available | $45.98    | —             | 90             | 16     | 6      | namecheap |
 | playon.navy        | available | $42.99    | —             | 80             | 14     | 7      | name.com  |
 | pierogi.navy       | available | $42.99    | —             | 82             | 7      | 7      | name.com  |
@@ -77,7 +77,7 @@ print(df.head())
 | divers.navy        | premium   | —         | —             | 69             | 11     | 6      | —         |
 | robots.navy        | available | $41.99    | $41.99        | 62             | 47     | 6      | namesilo  |
 | skills.navy        | available | $42.99    | —             | 58             | 47     | 6      | name.com  |
-| whynot.navy        | available | $42.99    | —             | 74             | 39     | 7      | name.com  |
+| whynot.navy        | available | $42.99    | —             | 74             | 44     | 7      | name.com  |
 | tokens.navy        | available | $41.99    | $41.99        | 51             | 36     | 6      | namesilo  |
 | payments.navy      | available | $42.99    | —             | 58             | 33     | 8      | name.com  |
 | teams.navy         | available | $42.99    | —             | 62             | 32     | 5      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NAVY One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NAVY One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
