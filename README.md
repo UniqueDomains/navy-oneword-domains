@@ -82,8 +82,8 @@ print(df.head())
 | payments.navy      | available | $42.99    | —             | 58             | 33     | 8      | name.com  |
 | teams.navy         | available | $42.99    | —             | 62             | 32     | 5      | name.com  |
 | maps.navy          | available | $42.99    | —             | 56             | 31     | 4      | name.com  |
-| inspiration.navy   | available | $42.99    | —             | 88             | 30     | 11     | name.com  |
 | videos.navy        | available | $42.99    | —             | 52             | 30     | 6      | name.com  |
+| heroes.navy        | available | $42.99    | —             | 68             | 29     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
