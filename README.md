@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .navy one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,773 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,773 domains · **Median ask:** $45.83 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,773 domains · **Median ask:** $46.13 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/navy`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/navy`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .NAVY one-word domain 
 
 ### Files
 
-- `navy.csv` — public CSV extract (1,000 rows)
-- `navy.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `navy.csv`, public CSV extract (1,000 rows)
+- `navy.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Acup.navy          | available | $45.98    | —             | 80             | 5      | 5      | namecheap |
-| finals.navy        | available | $41.99    | $41.99        | 80             | 7      | 6      | namesilo  |
-| jewels.navy        | available | $42.99    | —             | 80             | 15     | 6      | name.com  |
-| getup.navy         | available | $42.99    | —             | 82             | 15     | 6      | name.com  |
-| Apples.navy        | available | $45.98    | —             | 90             | 16     | 6      | namecheap |
-| playon.navy        | available | $42.99    | —             | 80             | 14     | 7      | name.com  |
-| pierogi.navy       | available | $42.99    | —             | 82             | 7      | 7      | name.com  |
-| agents.navy        | available | $42.99    | —             | 56             | 50     | 6      | name.com  |
-| VirginiaBeach.navy | premium   | $138.60   | $138.60       | 58             | 9      | 14     | namecheap |
-| cars.navy          | available | $42.99    | —             | 66             | 47     | 4      | name.com  |
-| divers.navy        | premium   | —         | —             | 69             | 11     | 6      | —         |
-| robots.navy        | available | $41.99    | $41.99        | 62             | 47     | 6      | namesilo  |
-| skills.navy        | available | $42.99    | —             | 58             | 47     | 6      | name.com  |
-| whynot.navy        | available | $42.99    | —             | 74             | 44     | 7      | name.com  |
-| tokens.navy        | available | $41.99    | $41.99        | 51             | 36     | 6      | namesilo  |
-| payments.navy      | available | $42.99    | —             | 58             | 33     | 8      | name.com  |
-| teams.navy         | available | $42.99    | —             | 62             | 32     | 5      | name.com  |
-| maps.navy          | available | $42.99    | —             | 56             | 31     | 4      | name.com  |
-| videos.navy        | available | $42.99    | —             | 52             | 30     | 6      | name.com  |
-| heroes.navy        | available | $42.99    | —             | 68             | 29     | 6      | name.com  |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ADS.navy      | available | $41.99    | $41.99        | high           | medium | 3      | namesilo  |
+| end.navy      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo  |
+| bed.navy      | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
+| sub.navy      | premium   | $854      | $854          | high           | low    | 3      | namesilo  |
+| boy.navy      | available | $42.99    | —             | medium         | low    | 3      | name.com  |
+| force.navy    | premium   | $128.70   | $128.70       | high           | low    | 5      | namecheap |
+| did.navy      | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
+| united.navy   | premium   | $71.40    | $71.40        | high           | medium | 6      | namesilo  |
+| egg.navy      | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
+| freedom.navy  | premium   | $118.80   | $118.80       | high           | medium | 7      | namesilo  |
+| few.navy      | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
+| premium.navy  | premium   | $854      | $854          | high           | low    | 7      | namesilo  |
+| led.navy      | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
+| seattle.navy  | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo  |
+| les.navy      | available | $41.99    | $41.99        | medium         | low    | 3      | namesilo  |
+| exchange.navy | premium   | $78.54    | $78.54        | high           | low    | 8      | namesilo  |
+| let.navy      | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
+| lie.navy      | available | $41.99    | $41.99        | medium         | low    | 3      | namesilo  |
+| MMR.navy      | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
+| nan.navy      | available | $42.99    | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of .navy domain names. The set includes short, dictionary-style and brandable terms such as tips.navy, WiFi.navy, homes.navy, finals.navy, and forces.navy. For founders, the key question is whether a .navy ending strengthens the name enough to make it memorable and ownable now. For investors, the main test is whether the keyword and extension fit tightly enough to support resale interest at the current ask. With a median ask of 45.83, price discipline matters less than relevance, clarity, and the likelihood that the term feels natural on a .navy extension.
+This selection covers 12,773 domain names registered under the .navy extension, spanning lifestyle, hobby, and community-oriented naming styles. Sample names such as makefriends.navy, solarpower.navy, and rolemodel.navy illustrate the mix of brandable one-word and short-phrase options available. The median asking price across this set is near $46, positioning .navy as a low-cost alternative for testing a name before committing to a more mainstream extension. When comparing domains in this list, weigh brandability, memorability, and renewal cost alongside any trademark risk tied to the exact wording.
 
-- Check whether the word reads naturally with .navy
-- Prefer clear, memorable terms over forced combinations
-- Use the 45.83 median ask as a pricing reference point
-- Watch for trademark risk in branded or loaded terms
+- 12,773 .navy domain names spanning hobbies, lifestyle, and brands
+- Median ask near $46 keeps early-stage testing affordable
+- Examples like solarpower.navy and jewels.navy show brandable naming
+- Weigh renewal cost and demand before locking in a .navy pick
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NAVY One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NAVY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
