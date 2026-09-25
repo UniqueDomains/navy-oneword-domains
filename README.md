@@ -1,10 +1,10 @@
-# Available .NAVY One-Word Domains (32,093)
+# Available .NAVY One-Word Domains (33,055)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C093%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C055%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .navy one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,093 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **33,055 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,093 domains · **Median ask:** $43.75 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 33,055 domains · **Median ask:** $43.75 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/navy`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| ads.navy      | available | $41.99    | $41.99        | high           | medium | 3      | namesilo  |
-| end.navy      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo  |
-| bed.navy      | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
+| aaa.navy      | available | $41.99    | $41.99        | high           | medium | 3      | namesilo  |
 | sub.navy      | premium   | $854      | $854          | high           | low    | 3      | namesilo  |
-| boy.navy      | available | $42.99    | —             | medium         | low    | 3      | name.com  |
-| force.navy    | premium   | $128.70   | $128.70       | high           | low    | 5      | namecheap |
-| did.navy      | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
+| abo.navy      | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
+| guard.navy    | premium   | $82.50    | —             | high           | low    | 5      | name.com  |
+| add.navy      | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
 | united.navy   | premium   | $71.40    | $71.40        | high           | medium | 6      | namesilo  |
-| egg.navy      | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
+| ads.navy      | available | $41.99    | $41.99        | high           | medium | 3      | namesilo  |
+| defence.navy  | premium   | $75       | —             | high           | low    | 7      | name.com  |
+| bar.navy      | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
 | freedom.navy  | premium   | $118.80   | $118.80       | high           | medium | 7      | namesilo  |
-| few.navy      | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
+| bed.navy      | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
 | premium.navy  | premium   | $854      | $854          | high           | low    | 7      | namesilo  |
-| led.navy      | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
+| boy.navy      | available | $42.99    | —             | high           | low    | 3      | name.com  |
+| reserve.navy  | premium   | $854      | $854          | high           | low    | 7      | namesilo  |
+| clx.navy      | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
 | seattle.navy  | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo  |
-| les.navy      | available | $41.99    | $41.99        | medium         | low    | 3      | namesilo  |
-| exchange.navy | premium   | $78.54    | $78.54        | medium         | low    | 8      | namesilo  |
-| let.navy      | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
-| lie.navy      | available | $41.99    | $41.99        | medium         | low    | 3      | namesilo  |
-| mmr.navy      | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
-| nan.navy      | available | $42.99    | —             | high           | low    | 3      | name.com  |
+| cxl.navy      | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
+| nebraska.navy | premium   | $118.80   | $118.80       | high           | low    | 8      | namesilo  |
+| did.navy      | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
+| ear.navy      | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,093 live domains                        |
+| 1,000-row public sample | 33,055 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NAVY One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NAVY One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
